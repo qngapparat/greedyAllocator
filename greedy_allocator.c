@@ -3,6 +3,7 @@
 #include <stdbool.h>
 
 //TODO refactor const ints
+//TODO use struct pointers instead of structs.
 
 const int MAX_CONTAINER_COUNT = 20;
 const int MAX_CONTAINER_WEIGHT = 15;
